@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "policy": {
+    "threshold_selection": "dev/calibration split only; sealed test scored once per candidate",
+    "threshold": 0.65,
+    "never_train_on": ["eval", "holdout_oos", "bench_pub/**", "holdout2/**"],
+    "split_by": ["generator_family", "prompt_scene_group", "near_duplicate_group", "real_source", "transformation_chain"]
+  },
+  "suites": {
+    "eval": {
+      "role": "sealed-test",
+      "label_semantics": "binary real/AI at 0.65 threshold; balanced accuracy is the bounty metric",
+      "size": {"ai": 150, "real": 150},
+      "files": ["data/eval/ai/*.jpg", "data/eval/real/*.jpg"],
+      "manifest": "data/manifests/dataset.csv",
+      "ai_sources": "flux_dev, sdxl, sd35, ideogram, recraft, schnell, mj, sd_db, stylegan3, cifake (eval slice)",
+      "real_source": "imagenette val + picsum (eval slice)",
+      "transformation_tags": ["original", "web-jpeg"],
+      "provenance": "committed; built by scripts/build_dataset.py",
+      "hash": "manifest pinned by git (dataset.csv)"
+    },
+    "holdout2": {
+      "role": "sealed-test (generalization)",
+      "label_semantics": "all AI (fake-only recall signal)",
+      "size": {"ai": 320},
+      "files": ["data/holdout2/ai/**/*.jpg"],
+      "manifest": "data/manifests/holdout2_ai_manifest.csv",
+      "ai_sources": ["flux_dev", "flux_pro", "ideogram", "ideogram_v3", "nano_banana", "recraft", "sd35", "sdxl"],
+      "generator_families": ["diffusion"],
+      "transformation_tags": ["original"],
+      "provenance": "fal.ai generations; manifest has prompt_ids (prompt/scene groups recorded)",
+      "hash": "manifest pinned by git (holdout2_ai_manifest.csv)"
+    },
+    "probe_real": {
+      "role": "sealed-test (specificity; in-the-wild)",
+      "label_semantics": "all real (false-AI rate signal)",
+      "size": {"real": 2000},
+      "files": ["data/probe/real/*.jpg"],
+      "real_source": "independent real photos (scraped web)",
+      "transformation_tags": ["web-jpeg"],
+      "provenance": "scripts/fetch_probe_real.py",
+      "hash": "manifest pinned by git (data/probe/real sha via git)"
+    },
+    "probe2": {
+      "role": "sealed-test (generalization)",
+      "label_semantics": "all AI",
+      "size": {"ai": 3},
+      "files": ["data/probe2/**/*.jpg"],
+      "ai_sources": ["flux_pro", "ideogram_v3", "nano_banana"],
+      "generator_families": ["diffusion"],
+      "transformation_tags": ["original"],
+      "provenance": "fal.ai generations",
+      "hash": "git-pinned"
+    },
+    "holdout_oos": {
+      "role": "sealed-test (out-of-domain; never trained on)",
+      "label_semantics": "all AI (fake-recall on unseen generators)",
+      "size": {"ai": 1069},
+      "files": ["data/holdout_oos/** (Spark only; NOT in git)"],
+      "ai_sources": ["ai_mj2 (Midjourney v6, 300)", "ai_sd_db (DiffusionDB SD1.4/1.5, 769)"],
+      "generator_families": ["diffusion"],
+      "transformation_tags": ["original"],
+      "provenance": "downloaded from HF (DiffusionDB), MJ2 scraping; sealed on DGX Spark",
+      "hash": "SHA-256 manifest on Spark (scripts/oos_check.py counts)"
+    },
+    "bench_pub_synthbuster": {
+      "role": "law-eval (public benchmark, evaluation-only)",
+      "label_semantics": "all AI (fake-only)",
+      "size": {"ai": 927},
+      "files": ["data/bench_pub/synthbuster/test-*.parquet"],
+      "ai_sources": ["dalle2", "dalle3", "midjourney", "stable-diffusion", "adobe-firefly", "glide", "gan"],
+      "generator_families": ["diffusion", "gan"],
+      "transformation_tags": ["original"],
+      "license": "research-only (Synthbuster distribution)",
+      "provenance": "HF parquet download; gitignored",
+      "hash": "SHA-256 computed on Spark (scripts/bench_pub.py dedupe)"
+    },
+    "bench_pub_cf_eval": {
+      "role": "law-eval (dual-class; evaluation-only)",
+      "label_semantics": "binary real/AI matched pairs per generator",
+      "size": {"local_shards": 41, "total_shards": 413, "ai": 2473, "real": 1506},
+      "files": ["data/bench_pub/cf/CompEval-*.parquet (41 local; full 413 on Spark)"],
+      "ai_sources": ["dfgan", "dalle2", "dalle3", "hourglass", "midjourney-v5/v6", "sd-finetunes", "firefly", "imagen", "ideogram", "galip", "stable-diffusion"],
+      "generator_families": ["gan", "diffusion", "autoregressive"],
+      "real_source": "matched prompt-source real photos (scene pairs) + FFHQ faces",
+      "transformation_tags": ["jpeg-compressed", "matched-pair"],
+      "license": "research (Community Forensics)",
+      "provenance": "HF parquet; gitignored; corrupted shards 0250/0350 skipped",
+      "hash": "SHA-256 per shard on Spark"
+    },
+    "bench_pub_cf_commercial": {
+      "role": "law-eval (TEST split; evaluation-only — NEVER train)",
+      "label_semantics": "all AI",
+      "size": {"ai": 3986},
+      "files": ["data/bench_pub/cf_commercial_test.parquet"],
+      "ai_sources": ["firefly2", "firefly3", "flux", "ideogram", "midjourney", "sd3"],
+      "generator_families": ["diffusion"],
+      "transformation_tags": ["original"],
+      "license": "research (Community Forensics)",
+      "provenance": "HF parquet; gitignored",
+      "hash": "SHA-256 on Spark"
+    },
+    "train_core": {
+      "role": "train",
+      "label_semantics": "binary; JPEG-real augmentation q55-85 on 40% of reals; face balance (FFHQ 8.4k vs StyleGAN3 cap 8000)",
+      "real_sources": ["imagenette2-320 train", "picsum 2000", "FFHQ 8400", "CIFAKE real"],
+      "ai_sources": ["schnell 850", "xgen 5-gen", "probes", "MJ 6160", "MJ2 300", "DiffusionDB 2309", "StyleGAN3 8000", "CF fakes 21000"],
+      "generator_families": ["diffusion", "gan"],
+      "files": ["detector/train_cnn.py assemble_rows()"],
+      "provenance": "on DGX Spark (~/f01d/data); manifests committed where applicable",
+      "hash": "per_epoch=4000 deterministic split (SEED=0)"
+    },
+    "train_val_split": {
+      "role": "dev (20% stratified per source)",
+      "label_semantics": "binary",
+      "size": {"real": 4475, "ai": 8286},
+      "files": ["detector/train_cnn.py assemble_rows() val slice"],
+      "provenance": "deterministic (SEED=0); used for best-checkpoint + early stopping",
+      "hash": "SEED=0 split"
+    },
+    "calibration_split": {
+      "role": "calibration",
+      "label_semantics": "binary",
+      "size": {"planned": 600},
+      "files": ["bench/calibrate.py selects from dev/val sources only"],
+      "provenance": "derived from train_val_split dev pool; NEVER from sealed sets",
+      "hash": "fixed by SEED"
+    }
+  },
+  "metrics_contract": {
+    "primary": "balanced_accuracy@0.65",
+    "scorecard": ["balanced_accuracy", "auroc", "auprc", "ai_recall", "real_recall", "false_ai_rate", "ai_recall_at_fpr_0.005/0.01/0.02", "brier", "ece10", "per_generator", "per_real_source", "bootstrap_95_ci"],
+    "preprocessing": "resize shortest side 416 -> center-crop 384 -> ImageNet normalize (detector/detect.py INPUT_SIZE=384 RESIZE_TO=416)",
+    "threshold_policy": "fixed 0.65 (product contract); calibration transforms may adjust confidence, not the threshold"
+  }
+}

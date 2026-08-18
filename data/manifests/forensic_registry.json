@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_by": "scripts/build_forensic_manifest.py",
+  "generated_at": "2026-08-15T06:45:15.934836+00:00",
+  "splits": {
+    "train": {
+      "manifest": "train_forensic.csv",
+      "rows": 78725
+    },
+    "dev": {
+      "manifest": "dev_forensic.csv",
+      "rows": 19681
+    },
+    "sealed": {
+      "manifest": "sealed_forensic.csv",
+      "rows": 1069
+    }
+  }
+}

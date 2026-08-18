@@ -1,0 +1,42 @@
+[
+  {
+    "name": "eval (clean)",
+    "n": 300,
+    "brier": 0.005251699250658921,
+    "ece10": 0.009860733931366597,
+    "false_ai_rate": 0.0,
+    "ai_recall": 0.9866666666666667,
+    "real_recall": 1.0,
+    "mean_conf": 0.49087291470656397
+  },
+  {
+    "name": "probe_real (in-the-wild)",
+    "n": 2000,
+    "brier": 0.04934445094247431,
+    "ece10": 0.08433800891343021,
+    "false_ai_rate": 0.0455,
+    "ai_recall": 0.0,
+    "real_recall": 0.9545,
+    "mean_conf": 0.0843380089134302
+  },
+  {
+    "name": "cf matched reals",
+    "n": 128,
+    "brier": 0.46724041811505174,
+    "ece10": 0.5069562968452125,
+    "false_ai_rate": 0.484375,
+    "ai_recall": 0.0,
+    "real_recall": 0.515625,
+    "mean_conf": 0.5069562968452125
+  },
+  {
+    "name": "synthbuster fakes",
+    "n": 600,
+    "brier": 0.03653814978740349,
+    "ece10": 0.05097263326480365,
+    "false_ai_rate": 0.0,
+    "ai_recall": 0.9433333333333334,
+    "real_recall": 0.0,
+    "mean_conf": 0.9490273667351964
+  }
+]

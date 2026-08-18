@@ -1,0 +1,321 @@
+model,prompt_id,prompt,width,height,url
+flux_dev,8,"guests at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f33/YByQM_ErxAZxO5XEmpUrK.jpg
+flux_dev,43,"a bright interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63f45/u6yfS-ytWXItljIHAM6h1.jpg
+flux_dev,36,a hotel pool in austin,1024,768,https://v3b.fal.media/files/b/0aa63f45/tO0iHlF1UVSqg4By0bCZ9.jpg
+flux_dev,50,a spa in prague,1024,768,https://v3b.fal.media/files/b/0aa63f33/plWlSXplvcDihCFithGrQ.jpg
+flux_dev,22,"a busy street scene in tokyo, morning light",1024,768,https://v3b.fal.media/files/b/0aa63f45/4R5FpHAb8J2zK8p2Rfjot.jpg
+flux_dev,57,a woman taking a mirror selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f33/BaMMBTLGP90sz6K8F7bBW.jpg
+flux_dev,29,"a salad bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63f32/9QGY9bxFqrG9zFqYAjHN7.jpg
+flux_dev,15,"a classroom with students at desks, candid",1024,768,https://v3b.fal.media/files/b/0aa63f32/lB-cQtA24Xz5dKuOgDlXF.jpg
+flux_dev,64,a scenic forest trail at midday,1024,768,https://v3b.fal.media/files/b/0aa63f33/-I_W9dWh2SNAYNQCPrhl-.jpg
+flux_dev,71,"a cozy interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63f33/dLphYodKpgNYx9EQEcL1F.jpg
+flux_dev,78,a scenic waterfall at sunrise,1024,768,https://v3b.fal.media/files/b/0aa63f33/0Ml6Fe_pJJuixemy1zxGt.jpg
+flux_dev,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63f33/4s1ja2VNVTbUZUkW9sT2n.jpg
+flux_dev,92,"group photo of a sports team in front of a landmark, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f33/AvHFN_53deiSIOh2r6ULf.jpg
+flux_dev,99,a man taking a selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f33/nXbU8r_SPuCG_ScucqaPB.jpg
+flux_dev,106,"a sunny street scene in barcelona, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63f34/8oI7U-WyDr7_K8ZN16f3i.jpg
+flux_dev,113,"a busy street scene in a european old town, candid pedestrians",1024,768,https://v3b.fal.media/files/b/0aa63f34/4AqZkLNAj1qlYZZOIlawy.jpg
+flux_dev,120,"an infographic about coffee brewing methods, clean modern design",1024,768,https://v3b.fal.media/files/b/0aa63f34/kVeUawUSQdQhbRZi4HOGg.jpg
+flux_dev,127,"a busy street scene in tokyo, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f34/l_0uRA0djdMoRB-sEvGtM.jpg
+flux_dev,134,a misty forest trail at golden hour,1024,768,https://v3b.fal.media/files/b/0aa63f34/wqz3v8_zrVy_-bfe20XPv.jpg
+flux_dev,141,"group photo of coworkers in an office, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63f34/aUiiERNW4x7aZ5oUDbxuO.jpg
+flux_dev,148,a couple taking a selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f34/dnn_hIIOgVFGDj3eQ2NaU.jpg
+flux_dev,155,"group photo of a family at a birthday party, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63f47/a0BWXjWO8rQxGPovzlNbc.jpg
+flux_dev,162,"people at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f34/k5gESi60lEw5Bo7zPbvku.jpg
+flux_dev,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63f34/hvy1uVPe7xrfqcqeegTrC.jpg
+flux_dev,176,a resort lobby in miami,1024,768,https://v3b.fal.media/files/b/0aa63f47/BCRtAr1dlzyOkvvBuWUf6.jpg
+flux_dev,183,"portrait of a young woman in a sunlit cafe, window light",1024,768,https://v3b.fal.media/files/b/0aa63f35/6RRCzn3MDRaljIfNoO_hN.jpg
+flux_dev,197,"a rainy street scene in a mexican town, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f35/o6JSuLJBxJFo2MqKhW2-W.jpg
+flux_dev,190,a scenic desert vista at sunset,1024,768,https://v3b.fal.media/files/b/0aa63f35/Uvkw48swy-3bMmijNZ13v.jpg
+flux_dev,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f35/uUWYVAZ0ZBOot3ZDSeToi.jpg
+flux_dev,218,"sushi platter on a cafe table, natural light",1024,768,https://v3b.fal.media/files/b/0aa63f35/VpVAukBGFS3pbJqd4qIto.jpg
+flux_dev,225,"guests at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f35/TchPriks7f3mC8TQ_OXp7.jpg
+flux_dev,204,"portrait of a teenage boy in an office, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f34/AfyoSpWx__owz4Cr8YFku.jpg
+flux_dev,232,candid photo of a baby with a puppy,1024,768,https://v3b.fal.media/files/b/0aa63f35/GXug5V8TkHFWSo8FfU9wN.jpg
+flux_dev,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f35/ko_eZ3lMVB7ie1KO5b4gS.jpg
+flux_dev,239,a woman taking a selfie at a city street at night,1024,768,https://v3b.fal.media/files/b/0aa63f35/OOi7kWFbxyMZ6K6e-KfBq.jpg
+flux_dev,246,"group photo of classmates at a birthday party, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f48/OUQs4DoadMQafSDxqOnBn.jpg
+flux_dev,260,candid photo of kids at a playground,1024,768,https://v3b.fal.media/files/b/0aa63f35/znYuu_6keRjfS8PoNnBWF.jpg
+flux_dev,267,"portrait of a elderly woman in a city sidewalk, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f36/cBIWvcYzWHsQSlqCVFaJf.jpg
+flux_dev,274,"a christmas tree in a living room corner, warm lights",1024,768,https://v3b.fal.media/files/b/0aa63f36/Gtnp5Ljq7uWeerwfwBZXM.jpg
+flux_dev,281,"portrait of a elderly woman in an urban street, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f36/adg4RYKiIYmdssoTcYesd.jpg
+sdxl,8,"guests at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f36/4S_ONCZWkz9N5Qif0nwxU.jpg
+sdxl,22,"a busy street scene in tokyo, morning light",1024,768,https://v3b.fal.media/files/b/0aa63f36/Dev7o3xY_Dvsjsg9Y-WUD.jpg
+sdxl,15,"a classroom with students at desks, candid",1024,768,https://v3b.fal.media/files/b/0aa63f49/uQip3AKQyigJyl2w3G--v.jpg
+sdxl,29,"a salad bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63f36/l1PmF-BWnW4JbT8MG3iuj.jpg
+sdxl,36,a hotel pool in austin,1024,768,https://v3b.fal.media/files/b/0aa63f49/MyRV6UQ1hKGXEtUa39x-s.jpg
+sdxl,43,"a bright interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63f37/N4C4ohfazehjwZxEkbxz0.jpg
+sdxl,50,a spa in prague,1024,768,https://v3b.fal.media/files/b/0aa63f37/jJJ0tlnXeiEG7C5f33fEl.jpg
+sdxl,57,a woman taking a mirror selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f37/4x2UV_Sz8fzBOdhHlfB0P.jpg
+sdxl,64,a scenic forest trail at midday,1024,768,https://v3b.fal.media/files/b/0aa63f38/IDM3J6NjeAtaWhTK1FClG.jpg
+sdxl,71,"a cozy interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63f38/cm0fP7yS4Ny5_rVTA7mrd.jpg
+sdxl,78,a scenic waterfall at sunrise,1024,768,https://v3b.fal.media/files/b/0aa63f38/9uPhc2EZzISCaH_bzEoen.jpg
+sdxl,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63f4b/N25gX45czcbexUr4ap0pv.jpg
+sdxl,92,"group photo of a sports team in front of a landmark, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f39/0MdqDvcBM5RuYmKvMWLjd.jpg
+sdxl,99,a man taking a selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f4b/U7C_Qn0_AcdHD9joytWxR.jpg
+sdxl,106,"a sunny street scene in barcelona, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63f4c/GStFq59eIXMmtG5tMUJqr.jpg
+sdxl,113,"a busy street scene in a european old town, candid pedestrians",1024,768,https://v3b.fal.media/files/b/0aa63f39/X0NZQPhCbyW295EJMzs8J.jpg
+sdxl,120,"an infographic about coffee brewing methods, clean modern design",1024,768,https://v3b.fal.media/files/b/0aa63f4c/sxNU5ziiaE0Jg1dsLeARo.jpg
+sdxl,134,a misty forest trail at golden hour,1024,768,https://v3b.fal.media/files/b/0aa63f3a/5OgtciLSdhJhOe7Ue65k-.jpg
+sdxl,127,"a busy street scene in tokyo, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f4c/eTQO1IXlKdDctAu_gZNG7.jpg
+sdxl,141,"group photo of coworkers in an office, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63f4d/BVMPfSZqSywrWAWohGCof.jpg
+sdxl,148,a couple taking a selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f3b/s_A7h0dkWUXn6EzLOVjAI.jpg
+sdxl,155,"group photo of a family at a birthday party, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63f3b/1WlvaTjVlIbUD9uYd8CQe.jpg
+sdxl,162,"people at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f3b/gpTIQCgNBwIE8nFOysakJ.jpg
+sdxl,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63f4e/JTES6pD4b-kw0OoqWBFGn.jpg
+sdxl,176,a resort lobby in miami,1024,768,https://v3b.fal.media/files/b/0aa63f3c/QdW33TxDuvodNfnN5sUsT.jpg
+sdxl,183,"portrait of a young woman in a sunlit cafe, window light",1024,768,https://v3b.fal.media/files/b/0aa63f3c/KFh4KOfZjDm2yRUq-cIld.jpg
+sdxl,190,a scenic desert vista at sunset,1024,768,https://v3b.fal.media/files/b/0aa63f3c/d2lYNh2ZTIjmWP7h1VBwR.jpg
+sdxl,197,"a rainy street scene in a mexican town, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f4f/LEHzJ3eTSkeZEE6Obcx5v.jpg
+sdxl,204,"portrait of a teenage boy in an office, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f3d/0LJvRR5MKIu6l8HYv8tEK.jpg
+sdxl,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f3d/d_gGoaxh2Lo07benET0Ej.jpg
+sdxl,218,"sushi platter on a cafe table, natural light",1024,768,https://v3b.fal.media/files/b/0aa63f3d/M7Yh1DZwQ12CD3iUdeIrI.jpg
+sdxl,225,"guests at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f3d/V7ZUYSHalX0o8jPqK3_Ne.jpg
+sdxl,232,candid photo of a baby with a puppy,1024,768,https://v3b.fal.media/files/b/0aa63f3d/ot72UB2-cuD5xAcvY7oNe.jpg
+sdxl,246,"group photo of classmates at a birthday party, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f3e/RjpAeVMxyDKyqmqpZkXpD.jpg
+sdxl,239,a woman taking a selfie at a city street at night,1024,768,https://v3b.fal.media/files/b/0aa63f3e/SgVXjc0IdDAzFp_4FuG2m.jpg
+sdxl,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f3e/vf8SAQhhpS10AZt-bUCMT.jpg
+sdxl,260,candid photo of kids at a playground,1024,768,https://v3b.fal.media/files/b/0aa63f50/fEdV005nl6ecL1nQUuiXl.jpg
+sdxl,267,"portrait of a elderly woman in a city sidewalk, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f3e/FSHkKmDXpoqYrygCeLibM.jpg
+sdxl,274,"a christmas tree in a living room corner, warm lights",1024,768,https://v3b.fal.media/files/b/0aa63f3e/r3PkMZslEWbByI65RVnlL.jpg
+sdxl,281,"portrait of a elderly woman in an urban street, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f51/UZhKrZuHtarkEhDSof8eB.jpg
+sd35,8,"guests at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f53/kwO17T-kw9ZXoVNE0onkX.jpg
+sd35,15,"a classroom with students at desks, candid",1024,768,https://v3b.fal.media/files/b/0aa63f54/H1Xx835lzVoDx5ccIs_du.jpg
+sd35,22,"a busy street scene in tokyo, morning light",1024,768,https://v3b.fal.media/files/b/0aa63f54/_crcx_A0l-LfsqYgKWY_x.jpg
+sd35,29,"a salad bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63f67/55M42sWf49bwlye3uJYTa.jpg
+sd35,36,a hotel pool in austin,1024,768,https://v3b.fal.media/files/b/0aa63f68/bTNC1vr5nAHvhbOIi9lp4.jpg
+sd35,43,"a bright interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63f68/yoR8BzbNQhCHZ3R8Pti1_.jpg
+sd35,50,a spa in prague,1024,768,https://v3b.fal.media/files/b/0aa63f56/GAyCW02KT4rhX00Um1p4Q.jpg
+sd35,57,a woman taking a mirror selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f56/E48rRVJaXESUyMwnAfWNQ.jpg
+sd35,71,"a cozy interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63f6a/Syf8HGg4S2eLXc6ttwGq9.jpg
+sd35,64,a scenic forest trail at midday,1024,768,https://v3b.fal.media/files/b/0aa63f6a/Rpv2P1AjWAyleTv24l-uJ.jpg
+sd35,78,a scenic waterfall at sunrise,1024,768,https://v3b.fal.media/files/b/0aa63f58/ZyiPBIWLkLVnHRkXAaOYe.jpg
+sd35,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63f58/I3SFqfyZTJHfwEnf7xZXK.jpg
+sd35,92,"group photo of a sports team in front of a landmark, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f6b/E0QwXBwksTBQd0_Qt8Q0R.jpg
+sd35,99,a man taking a selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f6b/iaY3Pkm8qM6z6rX6VJsqt.jpg
+sd35,113,"a busy street scene in a european old town, candid pedestrians",1024,768,https://v3b.fal.media/files/b/0aa63f6b/XAPuXn3fag3RhtlrFGHNe.jpg
+sd35,120,"an infographic about coffee brewing methods, clean modern design",1024,768,https://v3b.fal.media/files/b/0aa63f59/F0q4cI4mgW4snrQ7kROjh.jpg
+sd35,141,"group photo of coworkers in an office, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63f59/TYruNtBIewmhrTFShTixX.jpg
+sd35,106,"a sunny street scene in barcelona, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63f59/YM_UY5OGyu6_Ypeu3J-BJ.jpg
+sd35,127,"a busy street scene in tokyo, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f59/cJ1Z8YbSBIyFhzZLOUoAN.jpg
+sd35,148,a couple taking a selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f5a/DTKVBgCILmW2wRYbl1CNN.jpg
+sd35,162,"people at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f5a/oiaSIKHKgcDW-r9K-5QKs.jpg
+sd35,155,"group photo of a family at a birthday party, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63f5a/q5oQTHfsxMbQo_U4TQLIH.jpg
+sd35,134,a misty forest trail at golden hour,1024,768,https://v3b.fal.media/files/b/0aa63f5a/ORBDGS9WOTX4owCejX9s0.jpg
+sd35,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63f5a/Qy7LdD9L7REATyGmm3OTh.jpg
+sd35,190,a scenic desert vista at sunset,1024,768,https://v3b.fal.media/files/b/0aa63f5a/qT4AtNWrde33JJ64G9cBh.jpg
+sd35,176,a resort lobby in miami,1024,768,https://v3b.fal.media/files/b/0aa63f6d/2fQBxOn6mD69MsFDdHcDI.jpg
+sd35,183,"portrait of a young woman in a sunlit cafe, window light",1024,768,https://v3b.fal.media/files/b/0aa63f5a/8wPSU-WTEoqtBQ699RQqN.jpg
+sd35,197,"a rainy street scene in a mexican town, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f5b/FhebUo2PMQAMR7uM_Zz29.jpg
+sd35,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f5b/V3JZE39pCPffZKCFjBYMP.jpg
+sd35,218,"sushi platter on a cafe table, natural light",1024,768,https://v3b.fal.media/files/b/0aa63f6d/JgTIbL97pxw-TJNsvH40j.jpg
+sd35,204,"portrait of a teenage boy in an office, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f5b/DbiT61IKEfyJfdSQdloJw.jpg
+sd35,225,"guests at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f5b/Vw_ouM2KlTljqt4TJps8T.jpg
+sd35,232,candid photo of a baby with a puppy,1024,768,https://v3b.fal.media/files/b/0aa63f5b/m1B3nYpvDWiKGGRwv9AMY.jpg
+sd35,239,a woman taking a selfie at a city street at night,1024,768,https://v3b.fal.media/files/b/0aa63f5b/aKX0-LedT6ypCCv6xdqP1.jpg
+sd35,246,"group photo of classmates at a birthday party, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f6e/N7xmX54bZ7ZdhvW1YBUBd.jpg
+sd35,260,candid photo of kids at a playground,1024,768,https://v3b.fal.media/files/b/0aa63f6e/17VteCVAQjzTcaz_DfDRy.jpg
+sd35,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f6e/swUHPq6clK0LBehfWM3N4.jpg
+sd35,267,"portrait of a elderly woman in a city sidewalk, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f5c/tNtf2K8GEp5p3KAHzZlCT.jpg
+sd35,274,"a christmas tree in a living room corner, warm lights",1024,768,https://v3b.fal.media/files/b/0aa63f6e/bFuDNhfjMalnKShO9tuY8.jpg
+sd35,281,"portrait of a elderly woman in an urban street, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f6f/VTNE2BoGTRavMunvM4QbV.jpg
+ideogram,8,"guests at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f70/DePZ7KCweGsAvz7PMy9Re_AMYlt55I.png
+ideogram,15,"a classroom with students at desks, candid",,,https://v3b.fal.media/files/b/0aa63f70/AAYIZ1Pj-8tAn5DiplMac_oYeMDTWO.png
+ideogram,22,"a busy street scene in tokyo, morning light",,,https://v3b.fal.media/files/b/0aa63f71/_ffJy5SUCgX-fG1Y8aIi__SE19riRR.png
+ideogram,36,a hotel pool in austin,,,https://v3b.fal.media/files/b/0aa63f71/8BoUTaG8u6rBGhujj1tCc_FKVDjnM0.png
+ideogram,29,"a salad bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63f71/f2PRzKGuXRLaklpQheTAM_kebcuWTM.png
+ideogram,43,"a bright interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63f71/joXydR8itlQF3yJ2v-8Dy_LiKVrfP8.png
+ideogram,50,a spa in prague,,,https://v3b.fal.media/files/b/0aa63f71/M1nrnzBlIO2xj73X9a7TX_SMgJbqc4.png
+ideogram,57,a woman taking a mirror selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f71/kyoy1R96HFXEyWbYRbSgI_HIHgqCHv.png
+ideogram,64,a scenic forest trail at midday,,,https://v3b.fal.media/files/b/0aa63f60/AAoK8fMBFVERK0_hr6rBh_PaZ3nftx.png
+ideogram,71,"a cozy interior photo, living room",,,https://v3b.fal.media/files/b/0aa63f73/ZrPzmzZdbgTqzRLxeecU6_64pq1wZv.png
+ideogram,78,a scenic waterfall at sunrise,,,https://v3b.fal.media/files/b/0aa63f73/MhnzR8MrLttjbSUUbcolB_VaEAY4D3.png
+ideogram,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63f73/pwmrHOVja5xGXhdiHX51T_e3e151W2.png
+ideogram,92,"group photo of a sports team in front of a landmark, daylight",,,https://v3b.fal.media/files/b/0aa63f73/pKdKewhLaZCjRUilqc4ey_9oqZjFKj.png
+ideogram,99,a man taking a selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f73/eJwUdukNBq_vf7H0UCw1d_YEy3epXG.png
+ideogram,106,"a sunny street scene in barcelona, shop fronts",,,https://v3b.fal.media/files/b/0aa63f73/-xwXvJ955bod8V2NAgodV_FtLUIjeN.png
+ideogram,113,"a busy street scene in a european old town, candid pedestrians",,,https://v3b.fal.media/files/b/0aa63f61/vwm7XvSVevZP57g1u-ND5_5RJ2zmxE.png
+ideogram,120,"an infographic about coffee brewing methods, clean modern design",,,https://v3b.fal.media/files/b/0aa63f75/LpotJSXkfrxlh7EW_2Wt-_wA0kRMs2.png
+ideogram,127,"a busy street scene in tokyo, evening lights",,,https://v3b.fal.media/files/b/0aa63f63/BpqrEX0TxcLWeA-T2Y_9F_v2KSGGE0.png
+ideogram,134,a misty forest trail at golden hour,,,https://v3b.fal.media/files/b/0aa63f63/I7bCzI4oA6IiNh_DpN7Ez_04ld1nVa.png
+ideogram,141,"group photo of coworkers in an office, candid moment",,,https://v3b.fal.media/files/b/0aa63f63/t2WrdrSy1ca_yyYIWOVq8_tJy0TsaQ.png
+ideogram,148,a couple taking a selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f76/pyrwcznkKria1v1F5pv5g_Lt3d20Xh.png
+ideogram,155,"group photo of a family at a birthday party, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63f63/USsag-694BRE1k4eTq9r5_vinZG0MO.png
+ideogram,162,"people at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f63/dRtdiSi-oLO-Ehjo1Vs3g_5PuC9GDY.png
+ideogram,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63f76/9E3qQYwj39vV2_Vpe-sX6_pho9gOO7.png
+ideogram,176,a resort lobby in miami,,,https://v3b.fal.media/files/b/0aa63f65/bM_JiwyZyGU_I6G-mWSBI_cNPVkyWY.png
+ideogram,183,"portrait of a young woman in a sunlit cafe, window light",,,https://v3b.fal.media/files/b/0aa63f77/LLdCJmrRrJdYoNHRUUWez_THhyxkij.png
+ideogram,190,a scenic desert vista at sunset,,,https://v3b.fal.media/files/b/0aa63f65/c5qbPOBSTmVaUUFHrjxEF_psdkhenq.png
+ideogram,197,"a rainy street scene in a mexican town, evening lights",,,https://v3b.fal.media/files/b/0aa63f78/gqcxJiwIU1qyNuGbtxE90_qcfDuAbh.png
+ideogram,204,"portrait of a teenage boy in an office, casual clothing",,,https://v3b.fal.media/files/b/0aa63f66/m8QcWhmT7Ft0VuQHy1aPQ_58mwkslR.png
+ideogram,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",,,https://v3b.fal.media/files/b/0aa63f66/jbrxdVJ0xgUA5v-rf8DUJ_vuRRNAjl.png
+ideogram,218,"sushi platter on a cafe table, natural light",,,https://v3b.fal.media/files/b/0aa63f66/joXhkdRyVs6YaWPJ6DE4J_kXNkcB1h.png
+ideogram,225,"guests at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63f66/tfEJd3Uvzf0hddqKY88nV_q67HUFnW.png
+ideogram,232,candid photo of a baby with a puppy,,,https://v3b.fal.media/files/b/0aa63f67/leFaBJ-F7yZt_fOD08qYs_STYks91m.png
+ideogram,239,a woman taking a selfie at a city street at night,,,https://v3b.fal.media/files/b/0aa63f67/J6nY5eU4kjU8_Cc3MJuyp_bsZve7Bd.png
+ideogram,246,"group photo of classmates at a birthday party, daylight",,,https://v3b.fal.media/files/b/0aa63f67/BW-X26YPHFesqoHSQ9Gh9_yKYcuB08.png
+ideogram,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f68/UzAoWma3OeFmrgR4bAZec_aFjwBo08.png
+ideogram,260,candid photo of kids at a playground,,,https://v3b.fal.media/files/b/0aa63f68/eNnMeXwsI8M7I5kekQIey_JXpEH2xb.png
+recraft,22,"a busy street scene in tokyo, morning light",,,https://v3b.fal.media/files/b/0aa63f7b/oFo8hgdynmOSP6MoA1fcT_P8FHz1Qj.webp
+recraft,8,"guests at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f68/gvxORvfqX2dW3-T0wnUfY_1HVUFP9w.webp
+recraft,15,"a classroom with students at desks, candid",,,https://v3b.fal.media/files/b/0aa63f68/iaoFQYIS2Otzt8Eoq-dZC_ykGYjt6i.webp
+ideogram,267,"portrait of a elderly woman in a city sidewalk, warm tones",,,https://v3b.fal.media/files/b/0aa63f68/YVh-uLr8fvfGKAE16OO2d_D6BFRSKM.png
+ideogram,274,"a christmas tree in a living room corner, warm lights",,,https://v3b.fal.media/files/b/0aa63f68/SoQALri1l53DlerN8oLVN_VOYGbcIC.png
+ideogram,281,"portrait of a elderly woman in an urban street, warm tones",,,https://v3b.fal.media/files/b/0aa63f68/gh4WCjOr-ccSfXHCzFwuh_N3EoGcpk.png
+recraft,29,"a salad bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63f68/DAxH7VtbEvkoO3FycbVtw_z5Sn2AA6.webp
+recraft,36,a hotel pool in austin,,,https://v3b.fal.media/files/b/0aa63f69/VAbgdbfMATU62YYAzRl43_wV1nKHg6.webp
+recraft,43,"a bright interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63f69/Tx7ku2VEgyrzNP9RazhbW_N63Dmr6E.webp
+recraft,50,a spa in prague,,,https://v3b.fal.media/files/b/0aa63f69/hyo4P6psDT7HcPASiuEUP_ACFLgJwF.webp
+recraft,57,a woman taking a mirror selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f69/wjjwz7ogQcbeCIGRSTnDa_kWnfSYFq.webp
+recraft,71,"a cozy interior photo, living room",,,https://v3b.fal.media/files/b/0aa63f69/yiPHYaauKMGT1OgARvD5I_ufgVqIQx.webp
+recraft,64,a scenic forest trail at midday,,,https://v3b.fal.media/files/b/0aa63f69/0zwmPfusmcAFdXZr2zghG_v2hKON4x.webp
+recraft,78,a scenic waterfall at sunrise,,,https://v3b.fal.media/files/b/0aa63f69/hRmzvfbc8CZZe_rB3DlTr_ZfSH3O5p.webp
+recraft,92,"group photo of a sports team in front of a landmark, daylight",,,https://v3b.fal.media/files/b/0aa63f69/BgTl0hAO6ffh2WCn7p5gP_5OD0Fnin.webp
+recraft,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63f69/Gxs_OtNrEwPVNgqnsY4_X_y5IzdIIv.webp
+recraft,99,a man taking a selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f69/QLwd4WRU-mQQFBngdF9XP_Pp124kY2.webp
+recraft,106,"a sunny street scene in barcelona, shop fronts",,,https://v3b.fal.media/files/b/0aa63f69/dkRd1M9ndhwbK7PUNk_sN_WXXnxncZ.webp
+recraft,113,"a busy street scene in a european old town, candid pedestrians",,,https://v3b.fal.media/files/b/0aa63f69/JFV3gE_7T7U7P8vSSnyL4_PiIMaBDV.webp
+recraft,127,"a busy street scene in tokyo, evening lights",,,https://v3b.fal.media/files/b/0aa63f6a/Ku-QuSvpvyA31nZDdzJnb_V4uMqW4v.webp
+recraft,120,"an infographic about coffee brewing methods, clean modern design",,,https://v3b.fal.media/files/b/0aa63f6a/WvFeLJy6PMyCX7zk_bRT4_ZEffe2AK.webp
+recraft,134,a misty forest trail at golden hour,,,https://v3b.fal.media/files/b/0aa63f6a/IhopC0c4u-CO2kDkmx5HM_pCreEZi2.webp
+recraft,148,a couple taking a selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f6a/8D5ePe9PqdzGZfiEYxn2L_t25MBLG2.webp
+recraft,162,"people at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f6a/HunJLXYz17oqWhy7Wevix_GEuH6UvZ.webp
+recraft,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63f6a/xClu8GD1tWDUi0jdV6zWc_43horJB9.webp
+recraft,141,"group photo of coworkers in an office, candid moment",,,https://v3b.fal.media/files/b/0aa63f7c/KA4dB57_h5pEVOo-Ia5yM_G8zYNlT4.webp
+recraft,155,"group photo of a family at a birthday party, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63f6a/Y6X912ifSZI62Gq3LCV6d_eywZ8IMG.webp
+recraft,183,"portrait of a young woman in a sunlit cafe, window light",,,https://v3b.fal.media/files/b/0aa63f6a/iP9MnY0TpiADxz9LyprTi_PGGYTCRZ.webp
+recraft,197,"a rainy street scene in a mexican town, evening lights",,,https://v3b.fal.media/files/b/0aa63f6b/cvoQtzdR91hlWcL7yD6WO_7bX6aMUe.webp
+recraft,176,a resort lobby in miami,,,https://v3b.fal.media/files/b/0aa63f6a/b5YUOg6Jc_fQaWj_0MpdS_MROPmjfc.webp
+recraft,190,a scenic desert vista at sunset,,,https://v3b.fal.media/files/b/0aa63f6b/D4z4bZOs9tlixZXuvbe_z_rYzjRxeK.webp
+recraft,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",,,https://v3b.fal.media/files/b/0aa63f6b/pWftA0cfpBFTOybjyyTk9_Wb055pMJ.webp
+recraft,218,"sushi platter on a cafe table, natural light",,,https://v3b.fal.media/files/b/0aa63f6b/hRPZf_RBIZlY6hl-zMOWL_68mo9eMD.webp
+recraft,204,"portrait of a teenage boy in an office, casual clothing",,,https://v3b.fal.media/files/b/0aa63f6b/SPLvD6Rwx4vpWGg0Ee03I_yhhVoXAh.webp
+recraft,225,"guests at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63f6b/jcNH82pF_uOCqpkyOME0R_KpUjPo57.webp
+recraft,232,candid photo of a baby with a puppy,,,https://v3b.fal.media/files/b/0aa63f6b/QSUF1fEYxcLk29bAyyst8_8HtQseBP.webp
+recraft,239,a woman taking a selfie at a city street at night,,,https://v3b.fal.media/files/b/0aa63f6b/Tf4Yxg8Z9VU1NwEgl5EmA_1QzDoznQ.webp
+recraft,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f6b/ndn5z9A-YYW-ZdjX9pKnV_t06flZ72.webp
+recraft,267,"portrait of a elderly woman in a city sidewalk, warm tones",,,https://v3b.fal.media/files/b/0aa63f7e/TY79W14ZbW1Hk9YMafWf0_sOi223AA.webp
+recraft,246,"group photo of classmates at a birthday party, daylight",,,https://v3b.fal.media/files/b/0aa63f6b/690rKBpRq8t35IYQY6aRi_AoByHmcW.webp
+recraft,274,"a christmas tree in a living room corner, warm lights",,,https://v3b.fal.media/files/b/0aa63f6c/VqAS26rBZXfDVBl_aAyiz_Y2H8ObxK.webp
+recraft,260,candid photo of kids at a playground,,,https://v3b.fal.media/files/b/0aa63f6b/Rmi0oEQhRVLL4hLOwkTBm_UEHBt190.webp
+recraft,281,"portrait of a elderly woman in an urban street, warm tones",,,https://v3b.fal.media/files/b/0aa63f6c/GAKHeSeAo4N6ukbFwqsfW_6ushWQyv.webp
+flux_pro,8,"guests at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f6c/1WMSx5AYY_R-XqNOWSaeU_c59d1d2a205d434a834221a6531240b1.jpg
+flux_pro,15,"a classroom with students at desks, candid",1024,768,https://v3b.fal.media/files/b/0aa63f6c/nexp4JGNOeeGnILOW88oS_ec9a88c72fcc498fa3d57134b9496c3a.jpg
+flux_pro,22,"a busy street scene in tokyo, morning light",1024,768,https://v3b.fal.media/files/b/0aa63f6c/8N40FE5nCJlTmR2_Y0xcn_2024e8f851004b888eede966e49cc033.jpg
+flux_pro,29,"a salad bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63f6c/NO_zgWtlWk9EHPGPcQ3gi_38f956a8cc034fc59e08d89ac9c1d7b1.jpg
+flux_pro,36,a hotel pool in austin,1024,768,https://v3b.fal.media/files/b/0aa63f6c/SeadkzruY7MSBGIZsgBmB_83b2b36a92ad4856aa595d210bbc2291.jpg
+flux_pro,43,"a bright interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63f6c/FJRcpwN8WwwXMuA1Hh2W3_ab06c12a291b4ad5b73c54835ce38c0b.jpg
+flux_pro,50,a spa in prague,1024,768,https://v3b.fal.media/files/b/0aa63f6c/xqUmnfg7NMWS-TD01_AYE_c9e7f37b8eb849019d474b343cabee08.jpg
+flux_pro,64,a scenic forest trail at midday,1024,768,https://v3b.fal.media/files/b/0aa63f7f/NKwnGwAGj20fmFYiDldAH_d3256fe185414ed59c3ccd81673ac476.jpg
+flux_pro,71,"a cozy interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63f6c/aAtQR5j8BDbTVSy7gkf5M_3ba21a9749d54c7a898d651c426f8e30.jpg
+flux_pro,57,a woman taking a mirror selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f6c/rAB7QUVGEtFZL3KM-mhC3_e7ce08a03f8b44a1911cfc1e1fdcb53e.jpg
+flux_pro,78,a scenic waterfall at sunrise,1024,768,https://v3b.fal.media/files/b/0aa63f6d/f2NPYC3Fdy3vkMEHXkwM__86ddc3e36bc0449db19ca5fb2f225402.jpg
+flux_pro,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63f6d/uCrJw91N8En2Bqd-kPra5_b2a2fffed9814c7e9cd8da025955affd.jpg
+flux_pro,92,"group photo of a sports team in front of a landmark, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f7f/LH8e7DeRDsZh9GkyeNp8M_0f5af1a3bc5e42b2ad8d0cad7214afeb.jpg
+flux_pro,99,a man taking a selfie at a concert,1024,768,https://v3b.fal.media/files/b/0aa63f6d/TVKd4osTyP3hxAiFx9vXO_0824e05ba07d4abfb04e99971152679f.jpg
+flux_pro,106,"a sunny street scene in barcelona, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63f6d/sb-58b4GhMxyfKJ0pusds_50b891f80e33452cb58fe9b306f4cd90.jpg
+flux_pro,113,"a busy street scene in a european old town, candid pedestrians",1024,768,https://v3b.fal.media/files/b/0aa63f6d/yk83myNpwSyI8t_4c6Imz_e94b310a32eb435aada1579bd880e417.jpg
+flux_pro,120,"an infographic about coffee brewing methods, clean modern design",1024,768,https://v3b.fal.media/files/b/0aa63f6d/iwFL0dlMEgHqQ-KcI4DoU_3bb7e3bcf1ee4a2cb04605054602a664.jpg
+flux_pro,127,"a busy street scene in tokyo, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f6d/ON3BikA3PL6ecDerN81Ig_b4f01a84388146ecadd4a44245f3423f.jpg
+flux_pro,134,a misty forest trail at golden hour,1024,768,https://v3b.fal.media/files/b/0aa63f6d/EKS5yujD9YvNlVHS7XLTO_51c51b6c8d7a4fa69a1dbe7a2e46b270.jpg
+flux_pro,141,"group photo of coworkers in an office, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63f6d/wuecMmLR94qnRiQPc7W3I_a0e0bf44c9ce45d986bd099614825c4a.jpg
+flux_pro,148,a couple taking a selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f6d/XcRSEMO7ORLlavJuCj7mg_c12e98b518a344aa8477b10cb191f715.jpg
+flux_pro,155,"group photo of a family at a birthday party, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63f6d/1KszErHRZCD-_Kf0w87ta_a8a4fe5bcf514576b68c7ee43a2aee8b.jpg
+flux_pro,162,"people at a wedding reception, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f6d/yvspM38ro-HK4b3OEYxL7_b3a2c6090cfa4e10a4cdf62e2417179b.jpg
+flux_pro,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63f6d/Z1PIJpsJKN91SBX1IZA59_96e4dacb92d1447e866602348d55b69a.jpg
+flux_pro,176,a resort lobby in miami,1024,768,https://v3b.fal.media/files/b/0aa63f6e/_IIHUhp7ffzds2YU_EBGI_09f92388b8774f85a7ffc1b572b572cb.jpg
+flux_pro,183,"portrait of a young woman in a sunlit cafe, window light",1024,768,https://v3b.fal.media/files/b/0aa63f6e/BOi-fD4GllbT4SSWtMlmQ_5f04fd2fd67c4e07ad69e3f279e65fd6.jpg
+flux_pro,190,a scenic desert vista at sunset,1024,768,https://v3b.fal.media/files/b/0aa63f6e/erV2vaAjoELbcvTbbVnXP_78014b281d6b492fa3ef007400078c2a.jpg
+flux_pro,197,"a rainy street scene in a mexican town, evening lights",1024,768,https://v3b.fal.media/files/b/0aa63f6e/1tILFOFAyYRcrBxuIRohw_1108bfbc4e9b45fdbc7e776682e93280.jpg
+flux_pro,204,"portrait of a teenage boy in an office, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f6e/fUgBJW5KVfny7MqiFpqK-_828db295e1d649638eae771ab1901148.jpg
+flux_pro,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63f6e/Rx21Ujjm3RMHi8wJQUyty_e4e06ef050184832a6d3d026497e64e9.jpg
+flux_pro,218,"sushi platter on a cafe table, natural light",1024,768,https://v3b.fal.media/files/b/0aa63f6e/t4zgQbxz5Wrv5nSdAKlBE_cb8b50d589084356bed2cdbcb73826fd.jpg
+flux_pro,225,"guests at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63f6e/CCo_0bnELZFyWaqGZSnlL_f4c46bfbdf6d41d6886729c1342c5835.jpg
+flux_pro,232,candid photo of a baby with a puppy,1024,768,https://v3b.fal.media/files/b/0aa63f6e/2MWY0orz4ijxCTv_orhuY_d6d76d6538b04af6b241e020ed349630.jpg
+flux_pro,239,a woman taking a selfie at a city street at night,1024,768,https://v3b.fal.media/files/b/0aa63f6e/Eq7cpWNSLdDRzs_V6XQ73_3fa93b857eb34cf5a35af56a7215c1e8.jpg
+flux_pro,246,"group photo of classmates at a birthday party, daylight",1024,768,https://v3b.fal.media/files/b/0aa63f6e/hUV2z8smj5jZs6iUVpgWo_6ea25afd2afe4cc981be3cbaff08089f.jpg
+flux_pro,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63f6e/ZlPRwyUUum4ZjMyZZLu56_de4ac3c969c24cd1999e2dfe112ebacf.jpg
+flux_pro,267,"portrait of a elderly woman in a city sidewalk, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f6f/hM0JoaaGeOj32Xzl4Ubka_08cee5270ef04d52b2c42c0112aa90be.jpg
+flux_pro,274,"a christmas tree in a living room corner, warm lights",1024,768,https://v3b.fal.media/files/b/0aa63f6f/xCU8ToLGVvDMgkrQBRdUp_790084a5f5254ef7bef49f0ba504214f.jpg
+flux_pro,260,candid photo of kids at a playground,1024,768,https://v3b.fal.media/files/b/0aa63f6f/odg7vSGcUAr3jjoE9vPAU_cfeaa7a40de1424e9929cc1b989ff123.jpg
+flux_pro,281,"portrait of a elderly woman in an urban street, warm tones",1024,768,https://v3b.fal.media/files/b/0aa63f6f/OGbM-saNGAffZMW-tUbV7_7d2bcac366e546a4bb593a1f7c7fd41d.jpg
+nano_banana,8,"guests at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f6f/1-CqtqrzXfkOQL8eM7kar_SAJLcaV3.png
+nano_banana,22,"a busy street scene in tokyo, morning light",,,https://v3b.fal.media/files/b/0aa63f6f/5tEZ3QndlAdnrE51CAzhw_9bX5ZUZJ.png
+nano_banana,29,"a salad bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63f81/EEMnlFLDv3DAJijJwsfMr_DViWGTJk.png
+nano_banana,15,"a classroom with students at desks, candid",,,https://v3b.fal.media/files/b/0aa63f81/AGPd18Rfyoo-U7E7xjNLI_DDIxsPcp.png
+nano_banana,36,a hotel pool in austin,,,https://v3b.fal.media/files/b/0aa63f6f/SonyphY0HPbcveCe6BHO2_AOMIO8Yn.png
+nano_banana,43,"a bright interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63f82/8cf1wPLi6rjGLbndly5Vi_5Xn3tk2S.png
+nano_banana,50,a spa in prague,,,https://v3b.fal.media/files/b/0aa63f6f/O36Mam_KbxeLuXmw_TiAd_aa2HUeFx.png
+nano_banana,57,a woman taking a mirror selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f6f/0gBXMC63lwN7LJ6NehfFq_TsQZc9gc.png
+nano_banana,64,a scenic forest trail at midday,,,https://v3b.fal.media/files/b/0aa63f82/rA-HkD4PL2TEH__IZmhf3_z1K4jbNw.png
+nano_banana,71,"a cozy interior photo, living room",,,https://v3b.fal.media/files/b/0aa63f70/G57ZisaS1WUHetyTiD0H4_ZzJEznIw.png
+nano_banana,78,a scenic waterfall at sunrise,,,https://v3b.fal.media/files/b/0aa63f70/tqce0xzP1J6z0cIRekxAn_rgJSOCzH.png
+nano_banana,92,"group photo of a sports team in front of a landmark, daylight",,,https://v3b.fal.media/files/b/0aa63f70/UG3HetRKnFi-zTnxLnetw_RL4ohlLW.png
+nano_banana,99,a man taking a selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f82/7z3YB1Iv9BuV5ZPv2mMtF_iXQ5xDcD.png
+nano_banana,106,"a sunny street scene in barcelona, shop fronts",,,https://v3b.fal.media/files/b/0aa63f82/jUx0_W1FqPAhO4wYHMTK8_rP0Dbrr2.png
+nano_banana,113,"a busy street scene in a european old town, candid pedestrians",,,https://v3b.fal.media/files/b/0aa63f82/b1wQyVQ2wit7fFdcAFZwn_eNNybIsL.png
+nano_banana,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63f70/lzVrfKTIiTvYkKbjYaXwy_aqukuWUZ.png
+nano_banana,120,"an infographic about coffee brewing methods, clean modern design",,,https://v3b.fal.media/files/b/0aa63f70/LgbpW5WUfVBu_6TGaNbEb_ZBgeU6tT.png
+nano_banana,127,"a busy street scene in tokyo, evening lights",,,https://v3b.fal.media/files/b/0aa63f83/6mmavuPI2ngnN8dNVh2FF_1nrudyd0.png
+nano_banana,134,a misty forest trail at golden hour,,,https://v3b.fal.media/files/b/0aa63f70/l0DVcffvHGWq6CIs7kjyp_vtuJLIXO.png
+nano_banana,162,"people at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f71/8KOvcdTOyH6yfQPtBPAqW_6vdQXs7D.png
+nano_banana,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63f71/WLiGKOx1PQtuu5kOQdz86_b6OkAB0R.png
+nano_banana,141,"group photo of coworkers in an office, candid moment",,,https://v3b.fal.media/files/b/0aa63f71/OMx_-ummaSs3-WxKAmJ52_sf3K8Iaa.png
+nano_banana,148,a couple taking a selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f71/6ABRy07r8zWCnw2hRgq8G_FiGzjKrK.png
+nano_banana,155,"group photo of a family at a birthday party, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63f83/nLhH6c2vOtHxJmmkNcl4P_343yR337.png
+nano_banana,176,a resort lobby in miami,,,https://v3b.fal.media/files/b/0aa63f84/7u3cqPYuGdmEFHj68yBHJ_XLQEA4wQ.png
+nano_banana,183,"portrait of a young woman in a sunlit cafe, window light",,,https://v3b.fal.media/files/b/0aa63f84/PVLqXvFxcj8EfA06bItCo_CjuyxSdc.png
+nano_banana,190,a scenic desert vista at sunset,,,https://v3b.fal.media/files/b/0aa63f84/YIi8WncZ4k2oIn_lOMUbw_LR8FdZ1h.png
+nano_banana,197,"a rainy street scene in a mexican town, evening lights",,,https://v3b.fal.media/files/b/0aa63f84/LyEvbvKlc1gn8tFz-8wF1_LSryg3RH.png
+nano_banana,204,"portrait of a teenage boy in an office, casual clothing",,,https://v3b.fal.media/files/b/0aa63f84/Pxs81VLEtVthttuCCAy_L_xB1UfXVX.png
+nano_banana,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",,,https://v3b.fal.media/files/b/0aa63f72/syGQN4CaOdAejq6zwyout_xWYyXqW8.png
+nano_banana,218,"sushi platter on a cafe table, natural light",,,https://v3b.fal.media/files/b/0aa63f84/LVOA0auIC4BMjcmddinSw_Vs4yIL0d.png
+nano_banana,225,"guests at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63f72/uClHCyoRLzdNlArw7py9L_GrkZlH6f.png
+nano_banana,239,a woman taking a selfie at a city street at night,,,https://v3b.fal.media/files/b/0aa63f85/0hja3FgrzREkA1zwvE9CR_x3XgizJU.png
+nano_banana,232,candid photo of a baby with a puppy,,,https://v3b.fal.media/files/b/0aa63f85/TgETSsZ-hPMjndY3FrsZk_R3jBpX3X.png
+nano_banana,246,"group photo of classmates at a birthday party, daylight",,,https://v3b.fal.media/files/b/0aa63f72/s3TNKYSREU-12h9bF3oj8_m8zGBkBC.png
+nano_banana,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f85/Hn_CPm_PRSlWXxA6cRNO7_4POSeNAs.png
+nano_banana,260,candid photo of kids at a playground,,,https://v3b.fal.media/files/b/0aa63f85/QtfzzdejF7RfnypGKoU9I_FtKWxM2F.png
+nano_banana,267,"portrait of a elderly woman in a city sidewalk, warm tones",,,https://v3b.fal.media/files/b/0aa63f85/h_dJHeKtXwRkV69qMMkXb_8FtTJTAM.png
+nano_banana,274,"a christmas tree in a living room corner, warm lights",,,https://v3b.fal.media/files/b/0aa63f85/31JQujZHyjNnx3elvRL7u_0wCkKVmt.png
+nano_banana,281,"portrait of a elderly woman in an urban street, warm tones",,,https://v3b.fal.media/files/b/0aa63f73/aRI1BkDLDqVT1dStj0CkR_YDpzzICn.png
+ideogram_v3,8,"guests at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f75/yzXteZH9E7KtHiNa4L8xl_Y5Xhd8oW.png
+ideogram_v3,15,"a classroom with students at desks, candid",,,https://v3b.fal.media/files/b/0aa63f75/qDFpBvmUHa9IgUDoJifTp_UaaRXs8h.png
+ideogram_v3,22,"a busy street scene in tokyo, morning light",,,https://v3b.fal.media/files/b/0aa63f75/elu1_t4UFum3_WDVASr_B_VPkQD5J6.png
+ideogram_v3,29,"a salad bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63f75/LtTAH98udZBYK1sf98j-o_ZfqTeVzB.png
+ideogram_v3,36,a hotel pool in austin,,,https://v3b.fal.media/files/b/0aa63f88/4ODeVzXXnWNRH78iRgWEb_3toa8ScQ.png
+ideogram_v3,43,"a bright interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63f75/DexoMTg0e6doOGlPqbA_X_FLWXFVJd.png
+ideogram_v3,50,a spa in prague,,,https://v3b.fal.media/files/b/0aa63f75/oDTnB7c7dLQTmrmdVfs2A_VRUnVqZ8.png
+ideogram_v3,57,a woman taking a mirror selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f88/-b5q-kD8ETejfFpmfXn2-_0coaqcEl.png
+ideogram_v3,64,a scenic forest trail at midday,,,https://v3b.fal.media/files/b/0aa63f89/NU46w3xMnFDIp7rIPOlCV_oCBTQLJ7.png
+ideogram_v3,71,"a cozy interior photo, living room",,,https://v3b.fal.media/files/b/0aa63f77/-ZQHDoI3sztK9mso5UBzE_Zf5JGzhW.png
+ideogram_v3,78,a scenic waterfall at sunrise,,,https://v3b.fal.media/files/b/0aa63f89/OT16jLbwhqL4hO2E23VRh_rA46RgIL.png
+ideogram_v3,92,"group photo of a sports team in front of a landmark, daylight",,,https://v3b.fal.media/files/b/0aa63f8a/hg7aRVc4if_N39Vlr63F0_o16S3Zt0.png
+ideogram_v3,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63f8a/s7C81O3Zzmwe4oDrlOLF9_qvRBzDih.png
+ideogram_v3,99,a man taking a selfie at a concert,,,https://v3b.fal.media/files/b/0aa63f8a/JAzwT88WV0wxBeZPMHCGD_0U5bGvsa.png
+ideogram_v3,106,"a sunny street scene in barcelona, shop fronts",,,https://v3b.fal.media/files/b/0aa63f77/H2bKiFKsxYpcki75Ue56V_dCSNZkaT.png
+ideogram_v3,113,"a busy street scene in a european old town, candid pedestrians",,,https://v3b.fal.media/files/b/0aa63f78/70XdDvJRl_nhwNxkcnozW_RXdqwKVS.png
+ideogram_v3,120,"an infographic about coffee brewing methods, clean modern design",,,https://v3b.fal.media/files/b/0aa63f79/B6prDeYyiHfLcq8f_Txdb_UEDUdisz.png
+ideogram_v3,127,"a busy street scene in tokyo, evening lights",,,https://v3b.fal.media/files/b/0aa63f8b/UHV0Je6oUqvI2vjbYc_4d_PTmvT39E.png
+ideogram_v3,134,a misty forest trail at golden hour,,,https://v3b.fal.media/files/b/0aa63f79/FfKewt92G9Of8K1nNXBY1_zMQiSAa2.png
+ideogram_v3,141,"group photo of coworkers in an office, candid moment",,,https://v3b.fal.media/files/b/0aa63f79/TmS2-tIYGPe-pcpp7sa_1_KmNZcwvJ.png
+ideogram_v3,148,a couple taking a selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f79/lIaC6pRZu4TSePZxKGcWb_LPHnBMvE.png
+ideogram_v3,155,"group photo of a family at a birthday party, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63f79/cGmmkZa-WbwtJCZtSDsYQ_za5P78F1.png
+ideogram_v3,162,"people at a wedding reception, event photography",,,https://v3b.fal.media/files/b/0aa63f7a/lO8p_DbwgMgXlZUDIunsx_dJeG3DeK.png
+ideogram_v3,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63f7a/lqKBvRaY-M8h4WuOATYhn_datFxQZ9.png
+ideogram_v3,176,a resort lobby in miami,,,https://v3b.fal.media/files/b/0aa63f7b/49VCnA4CaoxWEEL_tTog-_xEOC3mvt.png
+ideogram_v3,183,"portrait of a young woman in a sunlit cafe, window light",,,https://v3b.fal.media/files/b/0aa63f7b/s5QYIAHiZhgsNh_3kqrQ8_ZQFLlTaW.png
+ideogram_v3,190,a scenic desert vista at sunset,,,https://v3b.fal.media/files/b/0aa63f7b/9K90gxdiwdfYAy3EfMHBx_i8vEAob5.png
+ideogram_v3,197,"a rainy street scene in a mexican town, evening lights",,,https://v3b.fal.media/files/b/0aa63f7b/yEDTMLSqp5aSEAa-KGKY__Z5AsFoMp.png
+ideogram_v3,204,"portrait of a teenage boy in an office, casual clothing",,,https://v3b.fal.media/files/b/0aa63f7b/nHO7Rya5qegAtao7am0iF_5SNYcNaZ.png
+ideogram_v3,211,"portrait of a man in a suit in a sunlit cafe, casual clothing",,,https://v3b.fal.media/files/b/0aa63f7c/ObpAhYlYc1JzGq2EPQU2m_QERCbBCD.png
+ideogram_v3,218,"sushi platter on a cafe table, natural light",,,https://v3b.fal.media/files/b/0aa63f7b/myKlpOQYXr8BalCqDZdcT_a9C3wOFW.png
+ideogram_v3,225,"guests at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63f7c/p6fmw6KWXbU_C0qC24QA6_8j91r5rV.png
+ideogram_v3,232,candid photo of a baby with a puppy,,,https://v3b.fal.media/files/b/0aa63f7d/0VhKoydoZvwsOOk-P4Pxj_jNAlKPm2.png
+ideogram_v3,239,a woman taking a selfie at a city street at night,,,https://v3b.fal.media/files/b/0aa63f8f/WY68wH1HnPJAQ1PHyi5OI_u4YKNOrF.png
+ideogram_v3,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63f7d/YBbBMs1-lDnDHnzCq9tsw_bQDgvKXw.png
+ideogram_v3,267,"portrait of a elderly woman in a city sidewalk, warm tones",,,https://v3b.fal.media/files/b/0aa63f7d/7KGoOtc2Cp3C59-d29rLW_TBi0J5YM.png
+ideogram_v3,260,candid photo of kids at a playground,,,https://v3b.fal.media/files/b/0aa63f7e/-QbPVP6gmVZri-O3MPyna_FmDMSSHd.png
+ideogram_v3,246,"group photo of classmates at a birthday party, daylight",,,https://v3b.fal.media/files/b/0aa63f7e/uMUKwBkp_DppfRj_gg1iL_BaK92MH9.png
+ideogram_v3,274,"a christmas tree in a living room corner, warm lights",,,https://v3b.fal.media/files/b/0aa63f7e/qHMiGZX0OrSCLs9YLud0L_fpvs1u4j.png
+ideogram_v3,281,"portrait of a elderly woman in an urban street, warm tones",,,https://v3b.fal.media/files/b/0aa63f91/ba05dmJBf0rcXkrmXpHXB_iThvRv0M.png

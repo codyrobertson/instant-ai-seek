@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Forensic data registry schema",
+  "description": "Machine-checkable provenance for every training/dev/sealed image.",
+  "type": "object",
+  "required": ["schema_version", "generated_by", "generated_at", "splits"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "generated_by": {"type": "string"},
+    "generated_at": {"type": "string", "format": "date-time"},
+    "splits": {
+      "type": "object",
+      "patternProperties": {
+        "^(train|dev|sealed)$": {
+          "type": "object",
+          "required": ["manifest", "rows"],
+          "properties": {
+            "manifest": {"type": "string"},
+            "rows": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["path", "label", "family", "source", "license", "split", "sha256"],
+                "properties": {
+                  "path": {"type": "string"},
+                  "label": {"enum": ["real", "ai"]},
+                  "family": {"enum": [
+                    "latent_diffusion", "pixel_diffusion", "gan", "autoregressive",
+                    "commercial_api", "img2img", "postprocessed", "camera_photo",
+                    "web_jpeg", "portrait", "matched_real", "screenshot_ui",
+                    "illustration_art", "unknown"
+                  ]},
+                  "source": {"type": "string", "description": "dataset/product/pipeline name"},
+                  "license": {"type": "string"},
+                  "split": {"enum": ["train", "dev", "sealed"]},
+                  "prompt_id": {"type": ["string", "null"]},
+                  "scene_group": {"type": ["string", "null"], "description": "prompt/scene bucket for matched-pair auditing"},
+                  "transform_tags": {"type": "array", "items": {"type": "string"}},
+                  "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+                  "size_bytes": {"type": "integer", "minimum": 1}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

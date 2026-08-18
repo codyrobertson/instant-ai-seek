@@ -1,0 +1,89 @@
+{
+  "contract": {
+    "version": 2,
+    "input_size": 384,
+    "resize_to": 416,
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "output_semantics": "P(AI) in [0,1]; 2-class softmax over logits",
+    "threshold": 0.65,
+    "fusion": "max(P_AI(student), P_AI(teacher)) when teacher present"
+  },
+  "models": {
+    "model_cnn.onnx": {
+      "role": "student",
+      "size_bytes": 44700676,
+      "sha256": "615715163734a8c7f04697e068dcc77532515b60d26b52e65fefd1764603225e",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    },
+    "model_cnn_fp16.onnx": {
+      "role": "student",
+      "size_bytes": 22358582,
+      "sha256": "760993ac7573bf1d1e44bf82bf4c5e5472f5691bc01c54698e47a234476ba928",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    },
+    "model_cnn_q.onnx": {
+      "role": "student",
+      "size_bytes": 11229862,
+      "sha256": "972880d69f3b6a1c3b00071665a46b896b5aa981a5fdfd2dd40ca71de829619b",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    },
+    "model_cnn_teacher.onnx": {
+      "role": "teacher",
+      "size_bytes": 111364467,
+      "sha256": "63900a2d58a759345a0425ececfdb341942df119e354e9d05a4d885ab4b5d164",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    },
+    "model_cnn_teacher_fp16.onnx": {
+      "role": "teacher",
+      "size_bytes": 55749257,
+      "sha256": "82c0b1a425afb9c849bb28eda66d850e6fdfe69712a31295c827272f60ff2d07",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    },
+    "model_cnn_teacher_q.onnx": {
+      "role": "teacher",
+      "size_bytes": 28212559,
+      "sha256": "0510edfed5cf78b3d3fbeebc9719af429f0849fb3fe05066432ae16c58201512",
+      "input_shape": [
+        "N",
+        3,
+        384,
+        384
+      ]
+    }
+  },
+  "generated_by": "scripts/gen_model_manifest.py"
+}

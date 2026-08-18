@@ -1,0 +1,14 @@
+# vendored at build time by scripts/build_extension.sh (network needed once)
+extension/lib/onnxruntime-web/
+extension/lib/model_cnn_q.onnx
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
+detector/best_state.pt
+data/bench_pub/
+__pycache__/
+extension/lib/model_cnn_teacher*

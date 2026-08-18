@@ -1,0 +1,121 @@
+model,prompt_id,prompt,width,height,url
+flux_dev,49,"a cozy interior photo, cafe",1024,768,https://v3b.fal.media/files/b/0aa63c34/B3ABZRhG0hlXVaQzDE629.jpg
+flux_dev,25,"a poke bowl on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c34/uXZvYo2_n96MVbCuoJxBg.jpg
+flux_dev,37,"people at a street parade, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c34/ufMjY4nQaFOzTFJZQLQ_O.jpg
+flux_dev,13,candid photo of children at a birthday party,1024,768,https://v3b.fal.media/files/b/0aa63c34/5apnQkbcBskvTud_cCoi4.jpg
+flux_dev,1,"a gourmet pizza on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c34/Wze7cH2ZwUNmXyH6lZUql.jpg
+flux_dev,61,"portrait of a middle-aged man in a park, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c34/E1dOfQXx7hq3GrvKj1DGe.jpg
+flux_dev,73,a spa in amsterdam,1024,768,https://v3b.fal.media/files/b/0aa63c47/W_qoXhjjQM6rphLlNFOZh.jpg
+flux_dev,97,a misty waterfall at midday,1024,768,https://v3b.fal.media/files/b/0aa63c34/JkzDvjEsxkamF9COVoVjr.jpg
+flux_dev,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63c34/aIl4Kz8z4XBmszakDXFJH.jpg
+flux_dev,109,"a bright interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c34/KOrUHj60jaCf7mm9rZpPw.jpg
+flux_dev,121,"portrait of a man in a suit in a market, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c47/IGjAWLXoBHG6xdxoYs4Fn.jpg
+flux_dev,133,"a crowd at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c35/jq0IrtMiCalkAFhAaf4-X.jpg
+flux_dev,145,"a rustic interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63c35/MnBHYdVGolHMumDXVsuye.jpg
+flux_dev,157,"sushi platter on a marble counter, appetizing",1024,768,https://v3b.fal.media/files/b/0aa63c35/A7776sJzFT7ZWHEggpZ5E.jpg
+flux_dev,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63c47/CiRrCpnzzcg4LdYiGZww4.jpg
+flux_dev,205,"group photo of coworkers at a restaurant table, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c35/QPO8s3OszRO1vg-WkHB1Y.jpg
+flux_dev,181,"a modern interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c35/Hw5q1wpe-iPWbE59qX2kj.jpg
+flux_dev,193,"a rainy street scene in lisbon, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63c35/6CBPN2Bp6qwCCT4Azl16f.jpg
+flux_dev,217,"group photo of coworkers at a wedding, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63c35/L5tAVoK9ivrDsySv9PKv8.jpg
+flux_dev,229,a teenager taking a mirror selfie at a festival,1024,768,https://v3b.fal.media/files/b/0aa63c35/1u-UrOKfRRnLjL8ixhMYF.jpg
+flux_dev,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63c36/zbv_sblwO3QOFoU2Z0ZvY.jpg
+flux_dev,265,"a poke bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63c36/ZcN8GjaBKum87-i8QZZzV.jpg
+flux_dev,277,a dramatic lake shore at sunset,1024,768,https://v3b.fal.media/files/b/0aa63c36/Qm553pAdRG7PxXC4AMq-h.jpg
+sdxl,1,"a gourmet pizza on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c48/1uq-ceYEoss5m1MjOcpRS.jpg
+flux_dev,241,"group photo of coworkers on a hiking trip, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c48/F6HIQH3qKEMHJ4YxkrvjV.jpg
+sdxl,13,candid photo of children at a birthday party,1024,768,https://v3b.fal.media/files/b/0aa63c36/WUQQkLJ5w5F4sacwiSeKG.jpg
+sdxl,25,"a poke bowl on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c37/rj4J88637PRK2xWWiMecN.jpg
+sdxl,37,"people at a street parade, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c37/xrhajGARkXs4Ix6oR-j8l.jpg
+sdxl,49,"a cozy interior photo, cafe",1024,768,https://v3b.fal.media/files/b/0aa63c37/3G8ckItaHK0MpyV5hDUcd.jpg
+sdxl,61,"portrait of a middle-aged man in a park, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c4a/A1JgbRlLT_q5CB4iKBESx.jpg
+sdxl,73,a spa in amsterdam,1024,768,https://v3b.fal.media/files/b/0aa63c38/SDWSq-i1rovcxbhgWHNOb.jpg
+sdxl,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63c38/1mgTklCyz58D7b8tYlzdY.jpg
+sdxl,97,a misty waterfall at midday,1024,768,https://v3b.fal.media/files/b/0aa63c38/r82DjcqN4GcAPLUC4LwfA.jpg
+sdxl,109,"a bright interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c4b/CyXEqwKH6niIqEeFr8bMK.jpg
+sdxl,121,"portrait of a man in a suit in a market, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c39/1wxpCI4hlh2xungKiTwQr.jpg
+sdxl,133,"a crowd at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c4c/82hc7sU2zi4Hg4-l6sMzx.jpg
+sdxl,145,"a rustic interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63c39/RsW42apPAVbGXA-vsWY4P.jpg
+sdxl,157,"sushi platter on a marble counter, appetizing",1024,768,https://v3b.fal.media/files/b/0aa63c3a/ykEaWrJvcKPHYHG0BHYpG.jpg
+sdxl,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63c3b/mcrrWXeDCEzwoxfduBrNi.jpg
+sdxl,181,"a modern interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c3b/5cvSjlfzGtyHqF0TOY_nw.jpg
+sdxl,193,"a rainy street scene in lisbon, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63c3b/byN18msTkFedWB4-7XHSm.jpg
+sdxl,205,"group photo of coworkers at a restaurant table, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c3c/vSyUV6vXsZHAxaTZIaiIi.jpg
+sdxl,217,"group photo of coworkers at a wedding, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63c4f/Wio6EUXMMUkfi4vyMzaib.jpg
+sdxl,229,a teenager taking a mirror selfie at a festival,1024,768,https://v3b.fal.media/files/b/0aa63c3c/d4O-IG7qPD6eIQFXWNuWo.jpg
+sdxl,241,"group photo of coworkers on a hiking trip, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c3d/V5zdoTdyuWPbG4ZZ-Kjfg.jpg
+sdxl,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63c4f/lZ4PAcRrc0ssoa9a5XjKu.jpg
+sdxl,265,"a poke bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63c3d/IizIkol-SyfDK3AbCCiYp.jpg
+sdxl,277,a dramatic lake shore at sunset,1024,768,https://v3b.fal.media/files/b/0aa63c3d/nlv009sJ7kbuDLtnWD3ox.jpg
+sd35,1,"a gourmet pizza on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c3d/ZNWwGExKt-fiTIqlZ1x0Z.jpg
+sd35,13,candid photo of children at a birthday party,1024,768,https://v3b.fal.media/files/b/0aa63c3e/n62wfYvo0Db5BnvsREfo4.jpg
+sd35,25,"a poke bowl on a wooden table, restaurant food photography",1024,768,https://v3b.fal.media/files/b/0aa63c3f/a99q_Rvx_JyeS6GdGmFMM.jpg
+sd35,37,"people at a street parade, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c3f/d3lAQYcSM2Bj0NV7NguUq.jpg
+sd35,49,"a cozy interior photo, cafe",1024,768,https://v3b.fal.media/files/b/0aa63c40/bV58Sw7ZtT1r45WLmY7Yb.jpg
+sd35,61,"portrait of a middle-aged man in a park, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c40/InvAcIDTmap3fSTmbL_Ek.jpg
+sd35,73,a spa in amsterdam,1024,768,https://v3b.fal.media/files/b/0aa63c40/jkGQzlA9F-Cxu-ioWyCid.jpg
+sd35,85,"a rustic interior photo, apartment",1024,768,https://v3b.fal.media/files/b/0aa63c41/AJOag3jqsWJBxm0tFeaLz.jpg
+sd35,97,a misty waterfall at midday,1024,768,https://v3b.fal.media/files/b/0aa63c41/zcJ9D-AgRxeGVWpnINC68.jpg
+sd35,109,"a bright interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c42/pTWymjfjMj6t6HYV-uwyz.jpg
+sd35,121,"portrait of a man in a suit in a market, casual clothing",1024,768,https://v3b.fal.media/files/b/0aa63c42/KDpn4-ihZKmtBsPUOTHT5.jpg
+sd35,133,"a crowd at a food festival, event photography",1024,768,https://v3b.fal.media/files/b/0aa63c43/KT1YmhmyTsrUDNvIeFqdk.jpg
+sd35,145,"a rustic interior photo, hotel room",1024,768,https://v3b.fal.media/files/b/0aa63c43/3xsjB9EKX0vORC5p9DYJB.jpg
+sd35,157,"sushi platter on a marble counter, appetizing",1024,768,https://v3b.fal.media/files/b/0aa63c44/x_vIU2G53064oLFgeBnr7.jpg
+sd35,169,"portrait of a man in a suit in a garden, soft bokeh background",1024,768,https://v3b.fal.media/files/b/0aa63c44/fPPsnPI18VjFze28YZG4n.jpg
+sd35,181,"a modern interior photo, living room",1024,768,https://v3b.fal.media/files/b/0aa63c45/VjkH1dYwngPyqeAcHi9gp.jpg
+sd35,193,"a rainy street scene in lisbon, shop fronts",1024,768,https://v3b.fal.media/files/b/0aa63c45/qtRvint8hsfnszhzsCaiq.jpg
+sd35,205,"group photo of coworkers at a restaurant table, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c46/_MaiwyLAiaaiva2OhlLOS.jpg
+sd35,217,"group photo of coworkers at a wedding, candid moment",1024,768,https://v3b.fal.media/files/b/0aa63c46/JkZX0Z77MTNLNkH_qd7cv.jpg
+sd35,229,a teenager taking a mirror selfie at a festival,1024,768,https://v3b.fal.media/files/b/0aa63c47/xDPnICB7rPAHhLU-ln76H.jpg
+sd35,241,"group photo of coworkers on a hiking trip, smartphone photo style",1024,768,https://v3b.fal.media/files/b/0aa63c47/eEvD6zkGT94gq2cgUOQU5.jpg
+sd35,265,"a poke bowl on a wooden table, close up",1024,768,https://v3b.fal.media/files/b/0aa63c48/WNs2Ek4FEvNds0m0ZuwqS.jpg
+sd35,253,a teenager taking a group selfie at a beach,1024,768,https://v3b.fal.media/files/b/0aa63c48/q1cEWw44Q-Q6ZI8T6voEA.jpg
+sd35,277,a dramatic lake shore at sunset,1024,768,https://v3b.fal.media/files/b/0aa63c49/Q9YourBqOyrRk4aWBnYZF.jpg
+ideogram,1,"a gourmet pizza on a wooden table, restaurant food photography",,,https://v3b.fal.media/files/b/0aa63c49/VJp_x7Ri7TzB6SB1zTe-4_jUhJc0RA.png
+ideogram,13,candid photo of children at a birthday party,,,https://v3b.fal.media/files/b/0aa63c4a/i9TqGDU4P7HT4QCPfwgJP_0BssjmmX.png
+ideogram,25,"a poke bowl on a wooden table, restaurant food photography",,,https://v3b.fal.media/files/b/0aa63c4a/1IpFN1NwY3wT9lCb8TDrU_C5He8t7z.png
+ideogram,37,"people at a street parade, event photography",,,https://v3b.fal.media/files/b/0aa63c4b/7B3v9uI_2yFeDKzqEpJgi_PwTLbFZB.png
+ideogram,49,"a cozy interior photo, cafe",,,https://v3b.fal.media/files/b/0aa63c4b/yJtALxiZjkMy0YU4w6Jbs_o47JTJXy.png
+ideogram,61,"portrait of a middle-aged man in a park, casual clothing",,,https://v3b.fal.media/files/b/0aa63c4c/x739PmYP9yvwSY_AvE56h_qTlrrqaU.png
+ideogram,73,a spa in amsterdam,,,https://v3b.fal.media/files/b/0aa63c4c/0BYPBrwzz_xr1xWE4H6Oj_SQbB5VaX.png
+ideogram,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63c4d/XJJoyNAVjrgvk0O80InMA_CCRgxFOA.png
+ideogram,97,a misty waterfall at midday,,,https://v3b.fal.media/files/b/0aa63c4d/IACqD3KX8xusNHGG9PFCK_bu8Rrde2.png
+ideogram,109,"a bright interior photo, living room",,,https://v3b.fal.media/files/b/0aa63c4e/aqv8vkH2C0V0wNJdA5xku_gP3pPOXu.png
+ideogram,121,"portrait of a man in a suit in a market, casual clothing",,,https://v3b.fal.media/files/b/0aa63c4e/vv9Uu2YJJ67ojTTJXaFJK_xc0Id0dn.png
+ideogram,133,"a crowd at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63c61/ii-5BMTTDB9eN9tMKGQI8_1wDfwhph.png
+ideogram,145,"a rustic interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63c62/eAzpeOlallyzpWTaeZgVR_30cvRhsl.png
+ideogram,157,"sushi platter on a marble counter, appetizing",,,https://v3b.fal.media/files/b/0aa63c62/An3WnXo_b-dYDh7XFsZ9v_LJd9bvtF.png
+ideogram,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63c50/2RD3gYVOMqIGpcy_r935__CJCKwZyM.png
+ideogram,181,"a modern interior photo, living room",,,https://v3b.fal.media/files/b/0aa63c51/sdFZC6gPDIsF9kZOy-6Wv_3K7ZexIX.png
+ideogram,193,"a rainy street scene in lisbon, shop fronts",,,https://v3b.fal.media/files/b/0aa63c51/lpVksJ8wzW-iT6gQV2KCM_uvywGunv.png
+ideogram,217,"group photo of coworkers at a wedding, candid moment",,,https://v3b.fal.media/files/b/0aa63c52/NW7eoJ_Nx6LNYZ6MXnwH7_UjykDTGA.png
+ideogram,205,"group photo of coworkers at a restaurant table, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63c52/fWG06m9WCq63PADH_5rQQ_TZL5FgJG.png
+ideogram,229,a teenager taking a mirror selfie at a festival,,,https://v3b.fal.media/files/b/0aa63c52/4AHFQnuheyzOKrhGElCov_8NUS2xZq.png
+ideogram,241,"group photo of coworkers on a hiking trip, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63c53/0IK0BLGvWx227RNCbn8Yd_f3ieHqtX.png
+recraft,1,"a gourmet pizza on a wooden table, restaurant food photography",,,https://v3b.fal.media/files/b/0aa63c53/D061pIhq-Yd2YUXkuh-ks_8Uv8MoTw.webp
+ideogram,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63c53/KC0kh9bim6ElCE9g7IKNA_0loYE0Pq.png
+recraft,13,candid photo of children at a birthday party,,,https://v3b.fal.media/files/b/0aa63c66/t8MpfbySLUwKrRZekLGEC_wVyDnVjb.webp
+recraft,25,"a poke bowl on a wooden table, restaurant food photography",,,https://v3b.fal.media/files/b/0aa63c54/jepzot96X-FhVCwZ9K_QO_toHGSTvf.webp
+recraft,37,"people at a street parade, event photography",,,https://v3b.fal.media/files/b/0aa63c66/ybWxKeISwq7bF0nw85e7f_IFEFPAeQ.webp
+ideogram,265,"a poke bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63c54/8pWgmwyRoLqZToi0uZEj1_y2ZrU159.png
+recraft,49,"a cozy interior photo, cafe",,,https://v3b.fal.media/files/b/0aa63c67/v_mlRpPYGvkGy3HTlzVka_I6yy7i57.webp
+recraft,73,a spa in amsterdam,,,https://v3b.fal.media/files/b/0aa63c67/v1lMQCDXDSTO6vPzJ56bl_F0cBPQ1C.webp
+recraft,61,"portrait of a middle-aged man in a park, casual clothing",,,https://v3b.fal.media/files/b/0aa63c67/UyaduhQy30jGXZSccc723_INyOWVmo.webp
+ideogram,277,a dramatic lake shore at sunset,,,https://v3b.fal.media/files/b/0aa63c55/VwQVUSQydduGBaaRpG4ig_oA392kQv.png
+recraft,85,"a rustic interior photo, apartment",,,https://v3b.fal.media/files/b/0aa63c68/O25wT4Od6wBW773EF3FaG_3fv6VngS.webp
+recraft,97,a misty waterfall at midday,,,https://v3b.fal.media/files/b/0aa63c68/zLW0blzQJjdPKYt0ExPSW_9oDSpXkq.webp
+recraft,121,"portrait of a man in a suit in a market, casual clothing",,,https://v3b.fal.media/files/b/0aa63c68/_ztJKaCdZWFpB-qwYhSBd_YmbuxkPC.webp
+recraft,109,"a bright interior photo, living room",,,https://v3b.fal.media/files/b/0aa63c68/i8PXVe8otF2gcJ1aA0ub2_J9GJhP89.webp
+recraft,133,"a crowd at a food festival, event photography",,,https://v3b.fal.media/files/b/0aa63c68/5W77a2ooXrnhHQOMRh67M_8A35RV9c.webp
+recraft,145,"a rustic interior photo, hotel room",,,https://v3b.fal.media/files/b/0aa63c68/AGe3loGgDGVxVLSpTQIAT_4JDdD7X5.webp
+recraft,157,"sushi platter on a marble counter, appetizing",,,https://v3b.fal.media/files/b/0aa63c68/UxZbQHV8GmZEiCSmhnZQ0_rEWcMoGx.webp
+recraft,169,"portrait of a man in a suit in a garden, soft bokeh background",,,https://v3b.fal.media/files/b/0aa63c68/My6jBw_Fip2i9D3VbCJj0_OHwLNQaB.webp
+recraft,181,"a modern interior photo, living room",,,https://v3b.fal.media/files/b/0aa63c69/8pNRtuG-k4omMVfZhEE5D_ttID9BMd.webp
+recraft,193,"a rainy street scene in lisbon, shop fronts",,,https://v3b.fal.media/files/b/0aa63c69/QjwyIQiW1lertsoFoEiPU_CxZtIBDl.webp
+recraft,217,"group photo of coworkers at a wedding, candid moment",,,https://v3b.fal.media/files/b/0aa63c69/06qMsaMrN9-sBzJnuPXTF_mUvlHjLM.webp
+recraft,205,"group photo of coworkers at a restaurant table, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63c69/apc927aNHwvWUEUthcPm8_1oA7W1Ox.webp
+recraft,229,a teenager taking a mirror selfie at a festival,,,https://v3b.fal.media/files/b/0aa63c69/4ODFG6ELkHLALmyXVWGaz_j8d7qXqV.webp
+recraft,241,"group photo of coworkers on a hiking trip, smartphone photo style",,,https://v3b.fal.media/files/b/0aa63c69/kBe9rxkApjABdouvIYQG8_wsXPaaAB.webp
+recraft,253,a teenager taking a group selfie at a beach,,,https://v3b.fal.media/files/b/0aa63c69/S0GV1nR9aPFaqzE1jy7fN_ZC5I8oZr.webp
+recraft,265,"a poke bowl on a wooden table, close up",,,https://v3b.fal.media/files/b/0aa63c69/8BRTA_YovHEMOG3fFjoCZ_z4rwV83m.webp
+recraft,277,a dramatic lake shore at sunset,,,https://v3b.fal.media/files/b/0aa63c57/6jt27m9VGJGMDhvl1ewA3_IxltLdi9.webp

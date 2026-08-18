@@ -1,0 +1,12 @@
+{
+  "name": "instant-ai-seek",
+  "version": "1.0.0",
+  "private": true,
+  "description": "In-browser AI image detector — MV3 Chrome extension",
+  "scripts": {
+    "e2e": "node scripts/e2e_extension_test.js --images=6"
+  },
+  "devDependencies": {
+    "puppeteer": "^22.15.0"
+  }
+}

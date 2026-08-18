@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><style>
+  body { width: 240px; font: 13px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 14px; color: #1a1a1a; }
+  h1 { font-size: 14px; margin: 0 0 6px; }
+  p { margin: 4px 0; color: #444; }
+  #status { font-weight: 600; }
+  .ok { color: #186e3c; } .err { color: #b42020; }
+  #thr { font-size: 12px; color: #777; margin-top: 10px; }
+</style></head>
+<body>
+  <h1>Instant AI Seek — AI Image Detector</h1>
+  <p>Status: <span id="status" class="err">checking…</span></p>
+  <p id="detail">All inference runs locally in this browser. Images never leave your device.</p>
+  <div id="thr">Confidence threshold: 65% &nbsp;•&nbsp; AI &gt;= 65%</div>
+  <script src="popup.js"></script>
+</body>
+</html>
